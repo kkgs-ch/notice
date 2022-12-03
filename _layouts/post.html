@@ -21,8 +21,10 @@ layout: default
     <!-- Add alternative link for the image
       https://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie
       -->
-    <img src="{{ page.image_link | escape }}"
-      onerror="this.onerror=null; this.src='{{ page.image_copy_link | escape }}'">
+    <p style="text-align:center;">
+      <img src="{{ page.image_link | escape }}"
+        onerror="this.onerror=null; this.src='{{ page.image_copy_link | escape }}'">
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
