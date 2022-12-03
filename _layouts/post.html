@@ -9,9 +9,11 @@ layout: default
     <h2 style="text-align: right;">{{ page.church | escape }}</h2>
     <h2 style="text-align: right;">{{ page.father | escape }}</h2>
 
-    <h3 style="text-align: right;">제 1 독서 > <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading | escape }}</a></h3>
+    <h3 style="text-align: right;">제 1 독서 > <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading |
+        escape }}</a></h3>
     {%- if page.second_reading -%}
-    <h3 style="text-align: right;">제 2 독서 > <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading | escape }}</a></h3>
+    <h3 style="text-align: right;">제 2 독서 > <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading |
+        escape }}</a></h3>
     {%- endif -%}
     <h3 style="text-align: right;">복음 > <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
     <!-- Add alternative link for the image
@@ -30,10 +32,6 @@ layout: default
     <p>[첨언] <br> {{ page.closing | escape }}</p>
     {%- endif -%}
   </div>
-
-  {%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-  {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
