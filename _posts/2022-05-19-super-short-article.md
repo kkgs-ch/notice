@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Some articles are just so short that we have to make the footer stick"
+title2: "t"
+first_reading: "luka 3"
+first_reading_link: "https://maria.catholic.or.kr/bible/read/bible_read.asp?menu=bible&m=2&n=149&p=10"
+image_link: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gospel_of_Luke_Chapter_19-3_%28Bible_Illustrations_by_Sweet_Media%29.jpg"
+categories: misc
+---
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
