@@ -7,8 +7,7 @@ second_reading: TODO
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=13
 gospel: TODO
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=24
-image_link: https://upload.wikimedia.org/wikipedia/commons/8/80/Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._%2849894805893%29.jpg
-image_copy_link: https://kkgs-ch.github.io/homily/assets/images/400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
+image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
 categories: misc 
 ---
 

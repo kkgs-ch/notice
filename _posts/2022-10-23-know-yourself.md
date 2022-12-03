@@ -7,8 +7,7 @@ second_reading: TODO
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=13
 gospel: TODO
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=24
-image_link: https://upload.wikimedia.org/wikipedia/commons/7/71/Delfy.JPG
-image_copy_link: https://kkgs-ch.github.io/homily/assets/images/800px-Delfy.jpeg
+image: 800px-Delfy.jpeg
 categories: misc
 ---
  

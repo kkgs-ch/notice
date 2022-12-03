@@ -23,12 +23,8 @@ layout: default
       <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}">듣기</a>
     </h3>
 
-    <!-- Add alternative link for the image
-      https://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie
-      -->
     <p style="text-align:center;">
-      <img src="{{ page.image_link | escape }}"
-        onerror="this.onerror=null; this.src='{{ page.image_copy_link | escape }}'">
+      <img src="https://kkgs-ch.github.io/homily/assets/images/{{ page.image | escape }}">
     </p>
   </header>
 
