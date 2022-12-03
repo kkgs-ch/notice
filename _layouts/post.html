@@ -4,42 +4,21 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <h2>{{ page.title2 | escape }}</h2>
+    <h1 class="post-title p-name" itemprop="name headline" style="text-align: center;">{{ page.title | escape }}</h1>
 
-    <h2>{{ page.church | escape }}</h2>
-    <h2>{{ page.father | escape }}</h2>
+    <h2 style="text-align: right;">{{ page.church | escape }}</h2>
+    <h2 style="text-align: right;">{{ page.father | escape }}</h2>
 
-    <h3>제 1 독서 <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading | escape }}</a></h3>
+    <h3 style="text-align: right;">제 1 독서 > <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading | escape }}</a></h3>
     {%- if page.second_reading -%}
-    <h3>제 2 독서 <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading | escape }}</a></h3>
+    <h3 style="text-align: right;">제 2 독서 > <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading | escape }}</a></h3>
     {%- endif -%}
-    <h3>복음 <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
+    <h3 style="text-align: right;">복음 > <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
     <!-- Add alternative link for the image
       https://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie
       -->
     <img src="{{ page.image_link | escape }}"
       onerror="this.onerror=null; this.src='{{ page.image_copy_link | escape }}'">
-    <p class=" post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-      ~
-      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-        {{ mdate | date: date_format }}
-      </time>
-      {%- endif -%}
-      {%- if page.author -%}
-      • {% for author in page.author %}
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- if forloop.last == false %}, {% endif -%}
-      {% endfor %}
-      {%- endif -%}
-    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
