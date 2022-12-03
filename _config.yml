@@ -1,16 +1,10 @@
-title: 스위스 취리히 한인 천주교회 안토니오 이영덕 신부님 강론말씀 모음
+title: 스위스 취리히 한인 천주교회 이영덕 안토니오 신부님 강론말씀 모음
 author:
-  name: "주임신부: 안토니오 이영덕 신부님"
+  name: "주임신부: 이영덕 안토니오 신부님"
   email: theoantlee@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  취리히 한인성당의 주임신부님이신 안토니오 이영덕 신부님께서 미사 때 해주신 강론 말씀을 모아두었습니다. 다음 미사 일정은 [성당홈페이지](http://www.kkgs.ch/)에 있습니다.
-
+  취리히 한인성당의 주임신부님이신 이영덕 안토니오 신부님께서 미사 때 해주신 강론 말씀을 모아두었습니다. We collect here Korean homilies by Father Antonio Lee given during catholic masses in Zurich Switzerland. We cordially invite you to our masses.
 show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
