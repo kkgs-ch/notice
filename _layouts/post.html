@@ -4,10 +4,9 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline" style="text-align: center;"><a
-        href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}">{{
-        page.title |
-        escape }}</a></h1>
+    <h1 class="post-title p-name" itemprop="name headline" style="text-align: center;">{{
+      page.title |
+      escape }}</h1>
     <h2 style="text-align: right;">취리히 한인 공동체 천주교회</h2>
     <h2 style="text-align: right;">이영덕 안토니오 신부님</h2>
     <h3 style="text-align: right;">제 1 독서 > <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading |
@@ -17,6 +16,11 @@ layout: default
         escape }}</a></h3>
     {%- endif -%}
     <h3 style="text-align: right;">복음 > <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
+    <!-- Multiple ways to access 매일미사 https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }} -->
+    <h3 style="text-align: right;">매일미사 > <a
+        href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02">전체보기</a>
+    </h3>
+
     <!-- Add alternative link for the image
       https://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie
       -->
@@ -27,13 +31,15 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {%- if page.opening -%}
-    <p>[인사말씀] <br> {{ page.opening | escape }} </p>
-    {%- endif -%}
-    [강론말씀] {{ content }}
-    {%- if page.closing -%}
-    <p>[첨언] <br> {{ page.closing | escape }}</p>
-    {%- endif -%}
+    <h4>
+      {%- if page.opening -%}
+      <p>[인사말씀] <br> {{ page.opening | escape }} </p>
+      {%- endif -%}
+      [강론말씀] {{ content }}
+      {%- if page.closing -%}
+      <p>[첨언] <br> {{ page.closing | escape }}</p>
+      {%- endif -%}
+    </h4>
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
