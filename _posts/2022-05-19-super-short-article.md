@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
-title2: "t"
-first_reading: "luka 3"
+title: "자캐오에 관한 강론 말씀"
+title2: "자캐오가 나무 위에 올라갔습니다."
+first_reading: "지혜서 10장"
 first_reading_link: "https://maria.catholic.or.kr/bible/read/bible_read.asp?menu=bible&m=2&n=149&p=10"
+second_reading: "창세기 3장"
+second_reading_link: "https://maria.catholic.or.kr/bible/read/bible_read.asp?menu=bible&m=2&n=149&p=10"
+gospel: "누가복음 19-3"
+gospel_link: "https://maria.catholic.or.kr/bible/read/bible_read.asp?menu=bible&m=2&n=149&p=10"
 image_link: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Gospel_of_Luke_Chapter_19-3_%28Bible_Illustrations_by_Sweet_Media%29.jpg"
+image_copy_link: "assets/images/자캐오_나무.jpeg"
 categories: misc
 ---
 
