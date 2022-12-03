@@ -7,7 +7,9 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <h2>{{ page.title2 | escape }}</h2>
     <h3>제 1 독서 <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading | escape }}</a></h3>
+    {%- if page.second_reading -%}
     <h3>제 2 독서 <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading | escape }}</a></h3>
+    {%- endif -%}
     <h3>복음 <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
     <!-- Add alternative link for the image
       https://stackoverflow.com/questions/3984287/how-to-show-alternate-image-if-source-image-is-not-found-onerror-working-in-ie
