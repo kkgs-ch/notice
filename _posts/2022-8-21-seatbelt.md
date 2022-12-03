@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 2022 년 8 월 21 일 한인 천주 교회 취리히 공동체 미사
-first_reading: TODO
-first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
-second_reading: TODO
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=13
-gospel: TODO
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=24
+first_reading: 이사야서 66,18-21
+first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=66
+second_reading: 히브리서 12,5-7.11-13
+second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=165&p=12
+gospel: 루카 13,22-30
+gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=13
 image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
 categories: misc 
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 2022년 10월 23일 미사 강론
-first_reading: TODO
+first_reading: 이사야서 2,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
-second_reading: TODO
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=13
-gospel: TODO
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=24
+second_reading: 로마서 10,9-18
+second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=10
+gospel: 마태오 28,16-20
+gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=28
 image: 800px-Delfy.jpeg
 categories: misc
 ---
