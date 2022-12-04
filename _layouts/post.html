@@ -9,23 +9,28 @@ layout: default
       escape }}</h1>
     <h2 style="text-align: right;">취리히 한인 공동체 천주교회</h2>
     <h2 style="text-align: right;">이영덕 안토니오 신부님</h2>
+    {%- if page.first_reading -%}
     <h3 style="text-align: right;">제 1 독서 > <a href="{{ page.first_reading_link | escape }}">{{ page.first_reading |
         escape }}</a></h3>
+    {%- endif -%}
     {%- if page.second_reading -%}
     <h3 style="text-align: right;">제 2 독서 > <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading |
         escape }}</a></h3>
     {%- endif -%}
+    {%- if page.gospel -%}
     <h3 style="text-align: right;">복음 > <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
+    {%- endif -%}
     <!-- Multiple ways to access 매일미사 https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }} -->
     <h3 style="text-align: right;">매일미사 > <a
         href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02">읽기</a>
       &
       <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}">듣기</a>
     </h3>
-
+    {%- if page.image -%}
     <p style="text-align:center;">
       <img src="https://kkgs-ch.github.io/homily/assets/images/{{ page.image | escape }}">
     </p>
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
