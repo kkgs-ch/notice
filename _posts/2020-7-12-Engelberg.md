@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 2020년 7월 12일 취리히 성당 미사 이영덕 신부님 강론
+title: ""
 image: engelberg.jpeg
 
 ---

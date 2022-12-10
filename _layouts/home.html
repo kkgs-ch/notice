@@ -23,10 +23,10 @@ layout: default
   {%- endif -%}
   <ul class="post-list">
     {%- for post in posts -%}
-    <li>
+    <li> 
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {{ post.date | date: "%Y년 %m월 %d일" }} {{ post.title | escape }} 강론 말씀
         </a>
       </h2>
       {%- if site.show_excerpts -%}

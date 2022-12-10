@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022년 3월 27일 사순 4주일 강론
+title: 사순 4주일
 first_reading: 여호수아기 5,9ㄱㄴ.10-12
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=106&p=5
 second_reading: 코린토 2서5,17-21

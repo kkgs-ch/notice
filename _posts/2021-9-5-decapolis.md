@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 2021 년 9 월 5 일 취리히 한인공동체 미사 강론 이영덕 안토니오 신부님
+title: ""
 image: Abila_(Decapolis).jpeg
 
 ---

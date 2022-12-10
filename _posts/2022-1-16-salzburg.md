@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 2022 년 1 월 16 일 주일 미사
+title: ""
 image: salzburg.jpeg
 
 ---

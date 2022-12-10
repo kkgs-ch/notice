@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022년 10월 23일 미사 강론
+title: ""
 first_reading: 이사야서 2,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
 second_reading: 로마서 10,9-18

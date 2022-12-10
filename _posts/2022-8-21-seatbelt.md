@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 년 8 월 21 일 한인 천주 교회 취리히 공동체 미사
+title: ""
 first_reading: 이사야서 66,18-21
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=66
 second_reading: 히브리서 12,5-7.11-13
