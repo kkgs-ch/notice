@@ -8,7 +8,7 @@ second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.a
 gospel: 마태오 28,16-20
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=28
 image: 800px-Delfy.jpeg
-categories: misc
+
 ---
  
 평안을 빕니다. 그리스 델피의 아폴론 신전의 입구에 ‘너 자신을 알라.’ 라는
@@ -17,7 +17,7 @@ categories: misc
 시간을 갖습니다. 제가 1996 년 수도원에 간 뒤로 ‘나 자신을 찾아갈
 시간이다.’ 말을 하며 시간을 갖는 사람들을 많이 봤습니다. 그런데 자신을
 제대로 찾은 사람들은 못지 못했습니다. 세상 안에서 살고 있는 나 자신을
-찾는 것은 어렵습니다. 
+찾는 것은 어렵습니다.
 
 오늘 복음이 이야기 하는 것이 이와 관련된
 것입니다.

@@ -8,7 +8,7 @@ second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.a
 gospel: 루카 13,22-30
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=13
 image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
-categories: misc 
+ 
 ---
 
 찬미 예수님. 여러분 휴가 잘 다녀오셨나요? 저도 한국에 휴가를 잘 다녀왔습니다.
@@ -41,7 +41,7 @@ categories: misc
 예수님께 오늘 복음에서는 어떤 사람이 ‘구원받은 사람이 얼마나 될까요? 적습니까?’
 라고 질문을 던집니다. 과연 이것이 의미가 있을까요? 여기에 예수님께서는 ‘너희는
 좁은 길을 가도록 힘써라’ 라고 하십니다. 다시 자리로 돌아가서 안전벨트를 메라는
-것입니다. 
+것입니다.
 
 여기에서 자리는 ‘성당’ 이며 안전벨트는 ‘성체성사’ 입니다. 자리에 앉아
 안전벨트를 메면 살 수 있습니다. 착석하셔서 예수님의 자리에 따라주십시오. 우리 안에

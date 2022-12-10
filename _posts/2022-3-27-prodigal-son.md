@@ -8,12 +8,12 @@ second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.a
 gospel: 루카 15,1-3.11ㄴ-32
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=15
 image: Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg
-categories: misc
+
 ---
 
 찬미 예수님! 우리는 지금 사순 4 주일을 보내고 있습니다. 사순 4 주일은 레타레
 (Laetare) 라고 하며 이는 기뻐하는 주일입니다. 이것은 ‘단순한 기쁨’이 아니라 ‘부활을
-미리 바라보는 기쁨’을 의미합니다. 
+미리 바라보는 기쁨’을 의미합니다.
 
 레타레 주일에는 장미색깔 제의나 보라색 제의를
 입습니다. 그런데 저는 장미색이 잘 어울리지 않아 보통 보라색 제의를 입습니다. 오늘
