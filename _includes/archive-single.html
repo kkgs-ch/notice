@@ -24,7 +24,8 @@
                     class="fas fa-link" aria-hidden="true" title="permalink"></i><span
                     class="sr-only">Permalink</span></a>
             {% else %}
-            <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.date | date: "%Y년 %-m월 %-d일" }} {{ title }} 강론 말씀</a>
+            <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.date | date: "%Y년 %-m월 %-d일" }} {{ title }}
+                강론 말씀</a>
             {% endif %}
         </h2>
         {% if post.read_time %}
@@ -39,6 +40,6 @@
         </p>
         {% endif %}
         {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify |
-            strip_html | truncate: 160 }}</p>{% endif %}
+            strip_html }}</p>{% endif %}
     </article>
 </div>
