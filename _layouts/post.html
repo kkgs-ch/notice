@@ -11,15 +11,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     <h4>
-      {%- if page.opening -%}
-      <p>[인사말씀]
-      <p> {{ page.opening | escape }} </p>
-      {%- endif -%}
-      [강론말씀] <p> {{ content }}
-        {%- if page.closing -%}
-      <p>[첨언]
-      <p> {{ page.closing | escape }}</p>
-      {%- endif -%}
+      <p>{{ content }}</p>
     </h4>
   </div>
 
