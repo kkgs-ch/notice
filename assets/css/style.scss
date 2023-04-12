@@ -5,3 +5,12 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'auto' }}",
   "minima/initialize";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
+
+div {
+font-family: 'Noto Serif KR', serif;
+
+}
+
+div {word-break:keep-all;}
